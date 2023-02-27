@@ -4,7 +4,9 @@ This a class project, where we program Hangman Game with Java using Sockets
 
 Done by
 
-Ricardo Almodóvar Rodríguez Eduardo R Torres Álamo Angel Velez Morales
+Eduardo R Torres Álamo
+Ricardo Almodóvar Rodríguez
+Angel Velez Morales
 
 Date : 12/10/2020
 
